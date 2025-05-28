@@ -3,4 +3,18 @@
    <head> 
       <title>Sociálne riziká informačných technológií - nevyžiadané e-maily, spamy, poplašné správy. </title>
    </head>
-   <body backround="
+   <body backround="Images/stiahnuť (3).jpg" style="font-size: 130%; color:white;backround-size: cover; backround-repeat: no-repeat;">
+      <h1 style-:text-align:center">Sociálne riziká informačných technológií.</h1>
+      <h2>Nežiaduca pošta a spam</h2>
+    <p>
+      Nevyžiadané e-maily (tzv. spam) sú nežiaduce správy, často komerčného alebo podvodného charakteru,
+      ktoré sú hromadne rozosielané používateľom internetu.
+    </p>
+    <ul>
+      <li>Môžu obsahovať nebezpečné odkazy alebo prílohy.</li>
+      <li>Často slúžia ako nástroj phishingu – krádeže údajov.</li>
+      <li>Zaťažujú e-mailové schránky a znižujú produktivitu.</li>
+    </ul>
+      <a href="podstranka.html">Ďalšia téma: Poplašné správy →</a>
+    </body>
+  </html>
