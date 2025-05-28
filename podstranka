@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <title>Sociálne riziká IT - Poplašné správy</title>
+  <body font-family: Arial, sans-serif;
+      background-color: #eef2f5;
+    color: black;">
+  <h1>Poplašné správy (hoaxy)</h1>
+    <p>
+      Poplašné správy, známe aj ako hoaxy, sú falošné alebo zavádzajúce informácie, ktoré sú šírené zámerne alebo
+      z nevedomosti. Cieľom je často vyvolať paniku, získať pozornosť alebo manipulovať s ľuďmi.
+    </p>
+
+    <h2>Typické znaky hoaxov:</h2>
+    <ul>
+      <li>Senzáciechtivý titulok: "ŠOKUJÚCE! Vláda ukrýva pravdu..."</li>
+      <li>Výzva na šírenie: "Pošli to všetkým známym, kým to nezmažú!"</li>
+      <li>Emocionálny nátlak: "Túto správu ti posielam ako priateľ..."</li>
+    </ul>
+
+    <h2>Riziká poplašných správ:</h2>
+    <ul>
+      <li>Šírenie paniky a nedôvery vo verejné inštitúcie.</li>
+      <li>Oslabenie imunity spoločnosti voči skutočným hrozbám.</li>
+      <li>Manipulácia s verejnou mienkou, politické účely.</li>
+    </ul>
+
+    <h2>Ako sa brániť?</h2>
+    <ul>
+      <li>Overuj si informácie cez dôveryhodné spravodajské portály.</li>
+      <li>Nezdieľaj obsah, ktorého pôvod nie je jasný.</li>
+      <li>Vzdelávaj seba aj ostatných v oblasti mediálnej gramotnosti.</li>
+      <li>Buď skeptický k správam, ktoré znejú „príliš šokujúco“.</li>
+    </ul>
+
+    <h2>Záver</h2>
+    <p>
+      Sociálne riziká informačných technológií môžu mať závažné dopady na jednotlivcov aj spoločnosť.
+      Prevencia, vzdelávanie a zodpovedné správanie v digitálnom priestore sú základom digitálnej bezpečnosti.
+    </p>
+    <a class="button" href="Stranka.html">← Späť na úvod</a>
+</body>
+</html>
